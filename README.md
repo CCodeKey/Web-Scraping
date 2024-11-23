@@ -1,1 +1,1 @@
-# altoma-o-selenium
+# Projeto de altomação com Selenium
